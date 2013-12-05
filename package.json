@@ -1,0 +1,21 @@
+{
+	"author": "David Goehrig",
+	"name": "opifex.pgproc",
+	"license" : "MIT",
+	"description": "Invoke Postgres stored procedures via AMQP",
+	"version": "0.0.1",
+	"repository": {
+		"url": "http://github.com/cthulhuology/opifex.pgproc"
+	},
+	"main": "./lib/Proc.coffee",
+	"bin": {},
+	"dependencies": {
+		"opifex" : ">=0.0.8"
+	},
+	"devDependencies": {},
+	"optionalDependencies": {},
+	"engines": {
+		"node": ">=0.10"
+	}
+}
+
