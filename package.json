@@ -3,7 +3,7 @@
 	"name": "opifex.pgproc",
 	"license" : "MIT",
 	"description": "Invoke Postgres stored procedures via AMQP",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"repository": {
 		"url": "http://github.com/cthulhuology/opifex.pgproc"
 	},
